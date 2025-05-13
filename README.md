@@ -13,7 +13,6 @@
 - 🎓 I'm currently a college student exploring the world of **AI, Data Analytics, and Web Development**
 - 🚀 Building real-world apps like:
   - 📸 **Photo Sharing App** (for college students)
-  - 🌾 **FarmFlux** – a smart assistant for farmers
 - 🌱 Learning **Flask, React.js, SQL, FastAPI, AI algorithms**
 - 🧠 Researching ideas around **Artificial Consciousness**
 - 🎮 I love cricket, battle games, and old-school songs 🎧
@@ -37,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuRajput&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vish3456&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=VishnuRajput&theme=tokyonight" alt="GitHub Streak"/>
   <br>
