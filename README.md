@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGnWQgRIqI/33BRu8kwjog6tezljoDqoA/view?utm_content=DAGnWQgRIqI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" width="100%" alt="Vishnu Rajput Banner" />
+ 
 </p>
 
 <h1 align="center">Hey 👋, I'm Vishnu Rajput</h1>
