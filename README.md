@@ -15,7 +15,6 @@
 
 - 🎓 I'm a computer science student at GLA University  
 - 💻 Currently learning: `Flask`, `React`, `SQL`, and `AI fundamentals`
-- 🛠️ Building a **Photo & Selfie Sharing App** for college-only users
 - 🧠 Passionate about Artificial Consciousness and futuristic tech
 - 💬 Ask me about: Python, Flask, SQL, or getting started in dev!
 - 🎮 Love playing cricket and listening to Kishore Kumar in chill time
