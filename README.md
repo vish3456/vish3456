@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🌟 VISHNU RAJPUT — GITHUB PROFILE 🌟              -->
+<!--                        🌟 VISHNU SINGH — GITHUB PROFILE 🌟                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────── ANIMATED HEADER BANNER ───────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7c3aed&height=220&section=header&text=Vishnu%20Rajput&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Python%20%7C%20AI%20%7C%20Flask%20%7C%20Building%20the%20Future&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7c3aed&height=220&section=header&text=Vishnu%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Python%20%7C%20AI%20%7C%20Flask%20%7C%20Building%20the%20Future&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ───────────────────── ANIMATED HAND WAVE & INTRO ───────────────────── -->
@@ -37,8 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=vish3456&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ───────────────────── ABOUT ME ───────────────────── -->
@@ -46,9 +44,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
 ```python
-class VishnuRajput:
+class VishnuSingh:
     def __init__(self):
-        self.name = "Vishnu Rajput"
+        self.name = "Vishnu Singh"
         self.role = "CS Student @ GLA University"
         self.language_spoken = ["Hindi", "English"]
         self.code = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
@@ -58,7 +56,7 @@ class VishnuRajput:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together 🚀")
 
-me = VishnuRajput()
+me = VishnuSingh()
 me.say_hi()
 ```
 
@@ -102,7 +100,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ───────────────────── FEATURED PROJECT ───────────────────── -->
+<!-- ───────────────────── FEATURED PROJECTS ───────────────────── -->
 
 ## 🚀 **Featured Projects**
 
@@ -169,33 +167,19 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ───────────────────── TROPHIES ───────────────────── -->
+<!-- ───────────────────── CAT ANIMATION ───────────────────── -->
 
-## 🏆 **GitHub Trophies**
+## 🐱 **Coding Companion**
 
 <p align="center">
-  <a href="https://github.com/vish3456">
-    <img src="https://github-profile-trophy.vercel.app/?username=vish3456&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-  </a>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="Cat Typing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" alt="Cat on Computer"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ───────────────────── SNAKE ANIMATION ───────────────────── -->
-
-## 🐍 **Contribution Snake**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github.com/vish3456/vish3456/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github.com/vish3456/vish3456/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" 
-      src="https://github.com/vish3456/vish3456/blob/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
-
-> 💡 *To enable the snake for your profile, set up the [snk GitHub Action](https://github.com/Platane/snk) in a `vish3456/vish3456` repo.*
+<p align="center"><i>Me debugging at 2 AM 🐾</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -218,9 +202,7 @@ me.say_hi()
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ───────────────────── SPOTIFY / MUSIC VIBE ───────────────────── -->
 
@@ -263,5 +245,5 @@ me.say_hi()
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     Made with 💜 by Vishnu Rajput                         -->
+<!--                      Made with 💜 by Vishnu Singh                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
